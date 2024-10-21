@@ -9,4 +9,7 @@ function howEqual(num1, num2){
         return "not equal"
     }
 }
-console.log(howEqual(10,"1"))
+// console.log(howEqual(10,"1"))
+// console.log(howEqual(10,"10"))
+console.log(howEqual(10,10))
+
