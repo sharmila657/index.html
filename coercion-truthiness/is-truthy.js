@@ -23,6 +23,7 @@ function isTruthy(name) {
         }
     
     }
-    console.log(isTruthy(""));
+    // console.log(isTruthy(""));
+    console.log(isTruthy("sharmi"));
     // console.log(isTruthy());
 
