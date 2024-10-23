@@ -11,6 +11,5 @@ else{
     return b3;
 }
 }
-
 console.log(myOr(true, true, false))
 
