@@ -25,7 +25,9 @@ function myAnd(c1,c2,c3){
 }
 // console.log(myOr(true, true, false))
 // console.log(myAnd(true,true,false))
-console.log(myAnd(1,0,1))
+// console.log(myAnd(1,0,1))
+console.log(myAnd(0,'apple',1))
+
 
 
 
