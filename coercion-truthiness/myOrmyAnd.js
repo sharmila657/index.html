@@ -12,16 +12,19 @@ else{
 }
 }
 
-function myAnd(c1,c3){
+function myAnd(c1,c2,c3){
     if(!c1){
         return c3;                           
+    }
+    else if(!c2){
+        return c3
     }
     else{
         return c3
     }
 }
 // console.log(myOr(true, true, false))
-console.log(myAnd(false,true))
+console.log(myAnd(true,true,false))
 
 
 
