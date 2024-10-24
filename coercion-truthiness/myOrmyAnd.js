@@ -11,5 +11,17 @@ else{
     return b3;
 }
 }
-console.log(myOr(true, true, false))
+
+function myAnd(c1,c3){
+    if(!c1){
+        return c3;                           
+    }
+    else{
+        return c3
+    }
+}
+// console.log(myOr(true, true, false))
+console.log(myAnd(false,true))
+
+
 
