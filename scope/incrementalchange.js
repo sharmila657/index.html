@@ -7,6 +7,7 @@ function incrementalChange(num){
 console.log(incrementalChange(10))
 console.log(incrementalChange(1))
 console.log(incrementalChange(0))
+console.log(incrementalChange(100))
 console.log(incrementalChange(-1))
 
 
